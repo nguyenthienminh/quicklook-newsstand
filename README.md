@@ -11,6 +11,6 @@ This project is to basically revive the Newsstand folder for the community, so i
 - The magazine or newspaper
 - The magazine or newspaper's cover or banner
 - A device (anything that runs from iOS 5 - 8)
-- The source code from this repository availible
+- The source code from this repository availible on the macOS 10.7 (or 10.8) installation
 ## Build instructions ##
 It's on my blog here.
