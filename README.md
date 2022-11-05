@@ -10,7 +10,7 @@ This project is to basically revive the Newsstand folder for the community, so i
 - Xcode 4.4.1 (specifically 4.4.1, as it's the last version to have the iOS 5 SDK)
 - The magazine or newspaper
 - The magazine or newspaper's cover or banner
-- A device (anything that runs from iOS 5 - 8)
+- A device (anything that runs from iOS 5 - 8 and jailbroken)
 - The source code from this repository availible on the macOS 10.7 (or 10.8) installation
 ## Build instructions ##
 It's on my blog here.
