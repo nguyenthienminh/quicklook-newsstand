@@ -7,10 +7,10 @@ This project is to basically revive the Newsstand folder for the community, so i
 *Also, just for your sakeness, there's no pre-built stuff (so you could customize the app to your liking), so you have to build it yourself. It's pretty easy though, as it doesn't involve command-line knowledge.*
 ### Prerequisities ###
 - A macOS 10.8 or 10.7 installation availible
-- Xcode 4.4.1 (specifically 4.4.1, as it's the last version to have the iOS 5 SDK)
+- Xcode 4.4.1 (specifically 4.4.1, as it's the last version to have the iOS 5 SDK; haven't tested with the iOS 6 - 8 SDK *yet*)
 - The magazine or newspaper
 - The magazine or newspaper's cover or banner
-- A device (anything that runs from iOS 5 - 8 and jailbroken)
+- A device (anything that runs iOS 5 and jailbroken, haven't tested with iOS 6 - 8 *yet*)
 - The source code from this repository availible on the macOS 10.7 (or 10.8) installation
 ## Build instructions ##
 It's on my blog here.
